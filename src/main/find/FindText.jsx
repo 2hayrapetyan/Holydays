@@ -1,0 +1,17 @@
+import React, { Component } from "react";
+import { Button2, TextBlock, TextBlockP, TextBlockParent } from "../../Repeat";
+
+
+export default class FindText extends Component {
+    render() {
+        return(
+            <TextBlockParent>
+            <TextBlock>
+                <h2 className="h2">Find a gift for your wife or girlfriend</h2>
+                <TextBlockP>Struggling to find a gift for your wife or girlfriend?No problem!</TextBlockP>
+                <Button2>Find gift now</Button2>
+            </TextBlock>
+            </TextBlockParent>
+        )
+    }
+} 
