@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Holydays/static/css/main.ec64117a.css",
+    "main.js": "/Holydays/static/js/main.0dda5732.js",
+    "static/media/findGift.png": "/Holydays/static/media/findGift.fb97408b8503ae6beca3.png",
+    "static/media/thanks.png": "/Holydays/static/media/thanks.2caa491b7c2077f3c685.png",
+    "static/media/way.png": "/Holydays/static/media/way.29d37ec70d85ce571d37.png",
+    "static/media/logo.svg": "/Holydays/static/media/logo.95bd28c5630bb972d83d22f09ee70087.svg",
+    "index.html": "/Holydays/index.html",
+    "main.ec64117a.css.map": "/Holydays/static/css/main.ec64117a.css.map",
+    "main.0dda5732.js.map": "/Holydays/static/js/main.0dda5732.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec64117a.css",
+    "static/js/main.0dda5732.js"
+  ]
+}
